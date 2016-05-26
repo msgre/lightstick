@@ -1,6 +1,7 @@
-**Lightstick for Museum Night 2016 event in Valasske Mezirici, Czech Republic.**
+With lightstick you will be able to draw light images in real environment.
 
 ![Image from lightstick tests](img/muzeum.jpg)
+![Image from lightstick tests](img/modrasek.jpg)
 
 Lightstick is thin wooden batten with 120 NeoPixel LED's. Lighstick is connected 
 to Arduino microcontroler with SD card. There are 2 images in 256 color pallete 

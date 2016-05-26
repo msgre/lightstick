@@ -24,3 +24,9 @@ indefinited width.
 * `files/` contains two "images" for lightpainting (`PNG`s are sources, `lig`s 
   are products of `lightimg.py` script which must be copied to SD card)
 * `img/` demo photographs from lightstick tests
+
+## SD card on Arduino Leonardo
+
+Official documentation on Adafruit website (https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/intro)
+doesn't work. Follow this instructions to make SD card functional on Leonardo:
+http://www.instructables.com/id/Connecting-Adafruit-SD-Card-Breakout-to-Leonardo/
